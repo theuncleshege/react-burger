@@ -13,6 +13,8 @@ A simple burger creator and ordering app developed in React. It is a small app b
 etc.
 
 
+### [Demo](https://theuncleshege.github.io/react-burger)
+
 You can use the following details for authentication:
 
 	Email Address: test@test.com
